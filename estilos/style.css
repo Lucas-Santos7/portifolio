@@ -90,8 +90,8 @@ p {
     color: white;
 }
 img {
-    height: 300px;
-    width: 300px;
+    width: 27%;
+    height: auto;
     border-radius: 50px;
     position: relative;
     left: 680px;
